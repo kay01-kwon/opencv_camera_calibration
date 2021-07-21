@@ -1,0 +1,7 @@
+/home/kay/Documents/practice/cpp/opencv_test/build/CMakeFiles/camera_calibration.dir
+/home/kay/Documents/practice/cpp/opencv_test/build/CMakeFiles/edit_cache.dir
+/home/kay/Documents/practice/cpp/opencv_test/build/CMakeFiles/pose_from_homography.dir
+/home/kay/Documents/practice/cpp/opencv_test/build/CMakeFiles/rebuild_cache.dir
+/home/kay/Documents/practice/cpp/opencv_test/build/CMakeFiles/blob_test.dir
+/home/kay/Documents/practice/cpp/opencv_test/build/CMakeFiles/circle_detect.dir
+/home/kay/Documents/practice/cpp/opencv_test/build/CMakeFiles/color_detect.dir
